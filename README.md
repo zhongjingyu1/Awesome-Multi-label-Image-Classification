@@ -7,3 +7,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |Pascal VOC 2012|20| |-|2.5|
 |MS-COCO 2014|80|82,081|40,504|2.9|
 |NUS-WIDE|81|125,449|83898|2.4|
+## 4. Top-tier Conference Papers
+### 2016&2019
+|  Title   | Venue  | Year| Code|
+|  ----  | ----  |----  |----  |
