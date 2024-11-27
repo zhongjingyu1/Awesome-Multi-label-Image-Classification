@@ -12,7 +12,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |  Title   | Venue  | Year| Datasets | Code|
 |  ----  | ----  |----  |----  |----  |
 |[Deep Convolutional Ranking for Multilabel Image Annotation](https://arxiv.org/pdf/1312.4894)|-|2014|NW|-|
-|[CNN-RNN: AUnified Framework for Multi-label Image Classification](https://openaccess.thecvf.com/content_cvpr_2016/papers/Wang_CNN-RNN_A_Unified_CVPR_2016_paper.pdf)|CVPR|2016|NW,COCO,V07|[Official](https://github.com/shemayon/CNN-RNN-A-Unified-Framework-for-Multi-Label-Image-Classification)|
+|[CNN-RNN: AUnified Framework for Multi-label Image Classification](https://openaccess.thecvf.com/content_cvpr_2016/papers/Wang_CNN-RNN_A_Unified_CVPR_2016_paper.pdf)|CVPR|2016|'NW','COCO','V07'|[Official](https://github.com/shemayon/CNN-RNN-A-Unified-Framework-for-Multi-Label-Image-Classification)|
 |[Learning Spatial Regularization with Image-level Supervisions for Multi-label Image Classification](https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhu_Learning_Spatial_Regularization_CVPR_2017_paper.pdf)|CVPR|2017|NW,COCO|[Official](https://github.com/zhufengx/SRN_multilabel/)|
 |[Multi-label Image Recognition by Recurrently Discovering Attentional Regions](https://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Multi-Label_Image_Recognition_ICCV_2017_paper.pdf)|ICCV|2017|COCO,V07|[Official](https://github.com/James-Yip/AttentionImageClass)|
 |[Multi-label image recognition with graph convolutional networks](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Multi-Label_Image_Recognition_With_Graph_Convolutional_Networks_CVPR_2019_paper.pdf)|CVPR|2019|COCO,V07|[Official](https://github.com/megvii-research/ML-GCN)|
