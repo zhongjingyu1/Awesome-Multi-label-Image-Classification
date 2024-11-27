@@ -18,9 +18,9 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |[Multi-label Image Recognition by Recurrently Discovering Attentional Regions](https://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Multi-Label_Image_Recognition_ICCV_2017_paper.pdf)|ICCV|2017|`COCO`,`VOC07`|[Official](https://github.com/James-Yip/AttentionImageClass)|
 |[Multi-Label Image Classification via Knowledge Distillation from Weakly-Supervised Detection](https://arxiv.org/pdf/1809.05884)|ACM MM|2018|`NW`,`COCO`|[Official](https://github.com/Yochengliu/MLIC-KD-WSD)|
 |[Multilabel Image Classification With Regional Latent Semantic Dependencies](https://click.endnote.com/viewer?doi=10.1109%2Ftmm.2018.2812605&token=WzM0ODAwNzgsIjEwLjExMDkvdG1tLjIwMTguMjgxMjYwNSJd.GJxNPnwI4HLO2_AbRR2Bw0ha3jM)|TMM|2018|`NW`,`COCO`,`VOC07`|-|
+|[Recurrent Attentional Reinforcement Learning for Multi-label Image Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/12281/12140)|AAAI|2018|`COCO`,`VOC07`|-|
 |[Multi-label image recognition with graph convolutional networks](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Multi-Label_Image_Recognition_With_Graph_Convolutional_Networks_CVPR_2019_paper.pdf)|CVPR|2019|`COCO`,`VOC07`|[Official](https://github.com/megvii-research/ML-GCN)|
 |[Learning semantic-specific graph representation for multi-label image recognition](https://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Learning_Semantic-Specific_Graph_Representation_for_Multi-Label_Image_Recognition_ICCV_2019_paper.pdf)|ICCV|2019|`COCO`,`VOC07`,`VOC12`|[Official](https://github.com/HCPLab-SYSU/SSGRL)|
-|[]()||||[Official]()|
 |[]()||||[Official]()|
 |[]()||||[Official]()|
 |[]()||||[Official]()|
