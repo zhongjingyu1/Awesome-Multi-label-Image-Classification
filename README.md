@@ -11,4 +11,4 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 ### 2016&2019
 |  Title   | Venue  | Year| Datasets | Code|
 |  ----  | ----  |----  |----  |----  |
-|Learning Spatial Regularization with Image-level Supervisions for Multi-label Image Classification|CVPR|2017|NUS-WIDE/MS-COCO|[Code](https://github.com/zhufengx/SRN_multilabel/)|
+|[Learning Spatial Regularization with Image-level Supervisions for Multi-label Image Classification](https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhu_Learning_Spatial_Regularization_CVPR_2017_paper.pdf)|CVPR|2017|NUS-WIDE/MS-COCO|[Official](https://github.com/zhufengx/SRN_multilabel/)|
