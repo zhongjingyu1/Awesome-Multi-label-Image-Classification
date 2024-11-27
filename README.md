@@ -3,9 +3,9 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 ## 3. Benchmark Datasets
 |  Dataset   | # Class  | # Training data	| # Test data| #Average labels per image|
 |  ----  | ----  |----  |----  |----|
-|Pascal VOC 2007 (`VOC07`)|20|5,011|4952|2.5|
-|Pascal VOC 2012 (`VOC12`)|20| |-|2.5|
-|MS-COCO 2014 (`COCO`)|80|82,081|40,504|2.9|
+|[Pascal VOC 2007](http://host.robots.ox.ac.uk/pascal/VOC/) (`VOC07`)|20|5,011|4952|2.5|
+|[Pascal VOC 2012](http://host.robots.ox.ac.uk/pascal/VOC/) (`VOC12`)|20| |-|2.5|
+|[MS-COCO 2014](https://cocodataset.org/#download) (`COCO`)|80|82,081|40,504|2.9|
 |NUS-WIDE (`NW`)|81|125,449|83898|2.4|
 ## 4. Top-tier Conference Papers
 ### 2016&2019
