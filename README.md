@@ -50,7 +50,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |[Asymmetric Loss For Multi-Label Classification](https://openaccess.thecvf.com/content/ICCV2021/papers/Ridnik_Asymmetric_Loss_for_Multi-Label_Classification_ICCV_2021_paper.pdf)|ICCV|2021|`NW`,`COCO`,`VOC07`|[Official](https://github.com/Alibaba-MIIL/ASL)|
 |[GM-MLIC: Graph Matching based Multi-Label Image Classification](https://www.ijcai.org/proceedings/2021/0163.pdf)|IJCAI|2021|`NW`,`COCO`,`VOC07`|-|
 |[Modular Graph Transformer Networks for Multi-Label Image Classification](https://ojs.aaai.org/index.php/AAAI/article/view/17098/16905)|AAAI|2021|`COCO`,`F550`|[Official](https://github.com/ReML-AI/MGTN)|
-|[Deep Semantic Dictionary Learning for Multi-label Image Classification](https://ojs.aaai.org/index.php/AAAI/article/download/16472/16279)|AAAI|2021|`COCO`,`VOC07`,`VOC12|[Official](https://github.com/FT-ZHOU-ZZZ/DSDL)|
+|[Deep Semantic Dictionary Learning for Multi-label Image Classification](https://ojs.aaai.org/index.php/AAAI/article/download/16472/16279)|AAAI|2021|`COCO`,`VOC07`,`VOC12`|[Official](https://github.com/FT-ZHOU-ZZZ/DSDL)|
 |[]()||||[Official]()|
 |[]()||||[Official]()|
 |[]()||||[Official]()|
