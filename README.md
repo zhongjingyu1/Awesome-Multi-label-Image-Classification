@@ -67,5 +67,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |[]()||||[Official]()|
 |[]()||||[Official]()|
 
+### 2022
+
 ## 5. Other Resources
 - [Awesome-Multi-label-Image-Recognition](https://github.com/JiaweiZhao-git/Awesome-Multi-label-Image-Recognition)
