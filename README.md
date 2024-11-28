@@ -11,7 +11,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |PA-100K (`PA`)|26|9,000|1,000||
 |Fashion550K (`F550`)|66||||
 |Charades (`Cha`)|157|8,000|1,800|6.8|
-|Visual Genome (`VG500`)|500|108249|-|-|
+|Visual Genome (`VG500`)|500|108,249|-|-|
 ## 4. Top-tier Conference Papers
 ### 2016&2019
 |  Title   | Venue  | Year| Datasets | Code|
