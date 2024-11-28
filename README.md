@@ -10,7 +10,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |WIDER Attribute (`WA`)|14|28,345|29,179||
 |PA-100K (`PA`)|26|9,000|1,000||
 |Fashion550K (`F550`)|66||||
-|Charades (`Cha`)|66|8,000||6.8|
+|Charades (`Cha`)|66|8,000|1,800|6.8|
 ## 4. Top-tier Conference Papers
 ### 2016&2019
 |  Title   | Venue  | Year| Datasets | Code|
@@ -39,7 +39,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |[Orderless Recurrent Models for Multi-label Classification](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yazici_Orderless_Recurrent_Models_for_Multi-Label_Classification_CVPR_2020_paper.pdf)|CVPR|2020|`NW`,`COCO`,`WA`,`PA`|[Official](https://github.com/voyazici/orderless-rnn-classification)|
 |[Joint Input and Output Space Learning for Multi-Label Image Classification](https://ieeexplore.ieee.org/document/9115821)|TMM|2020|`COCO`,`VOC07`|-|
 |[Cross-Modality Attention with Semantic Graph Embedding for Multi-Label Classification](https://ojs.aaai.org/index.php/AAAI/article/view/6964/6818)|AAAI|2020|`NW`,`COCO`|-|
-|[Multi-Label Classification with Label Graph Superimposing](https://arxiv.org/pdf/1911.09243)|AAAI|2020|`COCO`,|[Official](https://github.com/mathkey/mssnet)|
+|[Multi-Label Classification with Label Graph Superimposing](https://arxiv.org/pdf/1911.09243)|AAAI|2020|`COCO`,`Cha`|[Official](https://github.com/mathkey/mssnet)|
 |[]()||||[Official]()|
 |[]()||||[Official]()|
 
