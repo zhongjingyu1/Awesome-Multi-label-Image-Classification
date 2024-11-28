@@ -11,6 +11,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |PA-100K (`PA`)|26|9,000|1,000||
 |Fashion550K (`F550`)|66||||
 |Charades (`Cha`)|157|8,000|1,800|6.8|
+|Visual Genome (`VG500`)|500|108249|-|-|
 ## 4. Top-tier Conference Papers
 ### 2016&2019
 |  Title   | Venue  | Year| Datasets | Code|
@@ -52,7 +53,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |[GM-MLIC: Graph Matching based Multi-Label Image Classification](https://www.ijcai.org/proceedings/2021/0163.pdf)|IJCAI|2021|`NW`,`COCO`,`VOC07`|-|
 |[Modular Graph Transformer Networks for Multi-Label Image Classification](https://ojs.aaai.org/index.php/AAAI/article/view/17098/16905)|AAAI|2021|`COCO`,`F550`|[Official](https://github.com/ReML-AI/MGTN)|
 |[Deep Semantic Dictionary Learning for Multi-label Image Classification](https://ojs.aaai.org/index.php/AAAI/article/download/16472/16279)|AAAI|2021|`COCO`,`VOC07`,`VOC12`|[Official](https://github.com/FT-ZHOU-ZZZ/DSDL)|
-|[]()||||[Official]()|
+|[Query2Label: A Simple Transformer Way to Multi-Label Classification](https://arxiv.org/pdf/2107.10834v1)|arXiv|2021|`NW`,`COCO`,`VOC07`,`VOC12`,`VG500`|[Official](https://github.com/SlongLiu/query2labels)|
 |[]()||||[Official]()|
 |[]()||||[Official]()|
 
