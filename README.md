@@ -9,6 +9,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |NUS-WIDE (`NW`)|81|125,449|83898|2.4|
 |WIDER Attribute (`WA`)|14|28,345|29,179||
 |PA-100K (`PA`)|26|9,000|1,000||
+|Fashion550K (`F550`)|66||||
 ## 4. Top-tier Conference Papers
 ### 2016&2019
 |  Title   | Venue  | Year| Datasets | Code|
@@ -45,7 +46,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |[Learning to Discover Multi-Class Attentional Regions for Multi Label Image Recognition](https://ieeexplore.ieee.org/document/9466402)|TIP|2021|`COCO`,`VOC07`,`VOC12`|[Official](https://github.com/gaobb/MCAR)|
 |[Asymmetric Loss For Multi-Label Classification](https://openaccess.thecvf.com/content/ICCV2021/papers/Ridnik_Asymmetric_Loss_for_Multi-Label_Classification_ICCV_2021_paper.pdf)|ICCV|2021|`NW`,`COCO`,`VOC07`|[Official](https://github.com/Alibaba-MIIL/ASL)|
 |[GM-MLIC: Graph Matching based Multi-Label Image Classification](https://www.ijcai.org/proceedings/2021/0163.pdf)|IJCAI|2021|`NW`,`COCO`,`VOC07`|-|
-|[]()||||[Official]()|
+|[Modular Graph Transformer Networks for Multi-Label Image Classification](https://ojs.aaai.org/index.php/AAAI/article/view/17098/16905)|AAAI|2021|`COCO`,`F550`|[Official](https://github.com/ReML-AI/MGTN)|
 |[]()||||[Official]()|
 ## 5. Other Resources
 - [Awesome-Multi-label-Image-Recognition](https://github.com/JiaweiZhao-git/Awesome-Multi-label-Image-Recognition)
