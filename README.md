@@ -25,7 +25,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |[Multi-label Image Recognition With Graph Convolutional Networks](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Multi-Label_Image_Recognition_With_Graph_Convolutional_Networks_CVPR_2019_paper.pdf)|CVPR|2019|`COCO`,`VOC07`|[Official](https://github.com/megvii-research/ML-GCN)|
 |[Learning Semantic-specific Graph Representation for Multi-label Image Recognition](https://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Learning_Semantic-Specific_Graph_Representation_for_Multi-Label_Image_Recognition_ICCV_2019_paper.pdf)|ICCV|2019|`COCO`,`VOC07`,`VOC12`|[Official](https://github.com/HCPLab-SYSU/SSGRL)|
 |[Multi-label Image Recognition with Joint Class-aware Map Disentangling and Label Correlation Embedding](https://www.lamda.nju.edu.cn/weixs/publication/icme19.pdf)|ICME|2019|`NW`,`COCO`|-|
-|[]()||||[Official]()|
+|[Multi-label Image Classification via Feature/Label Co-Projection](https://ieeexplore.ieee.org/document/8985434)|TSCB|2020|`COCO`,`VOC07`|-|
 |[]()||||[Official]()|
 |[]()||||[Official]()|
 |[]()||||[Official]()|
