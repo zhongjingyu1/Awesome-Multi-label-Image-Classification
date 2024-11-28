@@ -62,7 +62,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |  Title   | Venue  | Year| Datasets | Code|
 |  ----  | ----  |----  |----  |----  |
 |[Boosting Multi-Label Image Classification with Complementary Parallel Self-Distillation](https://www.ijcai.org/proceedings/2022/0208.pdf)|IJCAI|2022|`NW`,`COCO`|[Official](https://github.com/Robbie-Xu/CPSD)|
-|[]()||||[Official]()|
+|[Global Meets Local: Effective Multi-Label Image Classification via Category-Aware Weak Supervision](https://arxiv.org/pdf/2211.12716)|ACM MM|2022|`COCO`,`VOC07`|-|
 |[]()||||[Official]()|
 |[]()||||[Official]()|
 |[]()||||[Official]()|
