@@ -10,7 +10,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |WIDER Attribute (`WA`)|14|28,345|29,179||
 |PA-100K (`PA`)|26|9,000|1,000||
 |Fashion550K (`F550`)|66||||
-|Charades (`Cha`)|66|8,000|1,800|6.8|
+|Charades (`Cha`)|157|8,000|1,800|6.8|
 ## 4. Top-tier Conference Papers
 ### 2016&2019
 |  Title   | Venue  | Year| Datasets | Code|
