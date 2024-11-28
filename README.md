@@ -58,6 +58,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |[Query2Label: A Simple Transformer Way to Multi-Label Classification](https://arxiv.org/pdf/2107.10834v1)|arXiv|2021|`NW`,`COCO`,`VOC07`,`VOC12`,`VG500`|[Official](https://github.com/SlongLiu/query2labels)|
 |[General Multi-label Image Classification with Transformers](https://openaccess.thecvf.com/content/CVPR2021/papers/Lanchantin_General_Multi-Label_Image_Classification_With_Transformers_CVPR_2021_paper.pdf)|CVPR|2021|`COCO`,`VG500`|[Official](https://github.com/QData/C-Tran)|
 |[Residual Attention: A Simple But Effective Method for Multi-Label Recoginition](https://arxiv.org/pdf/2108.02456v1)|ICCV|2021|`COCO`,`VOC07`,`VOC12`,`WA`|[Official](https://github.com/Kevinz-code/CSRA)|
+|[M3TR: Multi-modal Multi-label Recog nition with Transformer](https://dl.acm.org/doi/pdf/10.1145/3474085.3475191)|ACM MM|2021|`COCO`,`VOC07`|[Official](https://github.com/iCVTEAM/M3TR)|
 |[]()||||[Official]()|
 
 ### 2022
