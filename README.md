@@ -43,7 +43,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |  Title   | Venue  | Year| Datasets | Code|
 |  ----  | ----  |----  |----  |----  |
 |[Learning to Discover Multi-Class Attentional Regions for Multi Label Image Recognition](https://ieeexplore.ieee.org/document/9466402)|TIP|2021|`COCO`,`VOC07`,`VOC12`|[Official](https://github.com/gaobb/MCAR)|
-|[]()||||[Official]()|
+|[Asymmetric Loss For Multi-Label Classification](https://openaccess.thecvf.com/content/ICCV2021/papers/Ridnik_Asymmetric_Loss_for_Multi-Label_Classification_ICCV_2021_paper.pdf)|ICCV|2021|`NW`,`COCO`,`VOC07`|[Official](https://github.com/Alibaba-MIIL/ASL)|
 |[]()||||[Official]()|
 |[]()||||[Official]()|
 |[]()||||[Official]()|
