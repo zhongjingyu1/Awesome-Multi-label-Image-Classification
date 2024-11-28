@@ -40,5 +40,13 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |[]()||||[Official]()|
 |[]()||||[Official]()|
 
+### 2021
+|  Title   | Venue  | Year| Datasets | Code|
+|  ----  | ----  |----  |----  |----  |
+|[Learning to Discover Multi-Class Attentional Regions for Multi Label Image Recognition](https://ieeexplore.ieee.org/document/9466402)|TIP|2021|`COCO`,`VOC07`,`VOC12`|[Official](https://github.com/gaobb/MCAR)|
+|[]()||||[Official]()|
+|[]()||||[Official]()|
+|[]()||||[Official]()|
+|[]()||||[Official]()|
 ## 5. Other Resources
 - [Awesome-Multi-label-Image-Recognition](https://github.com/JiaweiZhao-git/Awesome-Multi-label-Image-Recognition)
