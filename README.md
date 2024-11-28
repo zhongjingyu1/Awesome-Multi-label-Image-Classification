@@ -59,7 +59,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 ### 2022
 |  Title   | Venue  | Year| Datasets | Code|
 |  ----  | ----  |----  |----  |----  |
-|[]()||||[Official]()|
+|[Boosting Multi-Label Image Classification with Complementary Parallel Self-Distillation](https://www.ijcai.org/proceedings/2022/0208.pdf)|IJCAI|2022|`NW`,`COCO`|[Official](https://github.com/Robbie-Xu/CPSD)|
 |[]()||||[Official]()|
 |[]()||||[Official]()|
 |[]()||||[Official]()|
