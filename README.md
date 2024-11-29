@@ -12,6 +12,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |Fashion550K (`F550`)|66||||
 |Charades (`Cha`)|157|8,000|1,800|6.8|
 |Visual Genome (`VG500`)|500|108,249|-|-|
+|IAPRTC-12 (`IA12`)|275|13,989|6,011|-|
 ## 4. Top-tier Conference Papers
 ### 2014--2019
 |  Title   | Venue  | Year| Datasets | Code|
@@ -71,7 +72,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |[Global Meets Local: Effective Multi-Label Image Classification via Category-Aware Weak Supervision](https://arxiv.org/pdf/2211.12716)|ACM MM|2022|`COCO`,`VOC07`|-|
 |[Two-Stream Transformer for Multi-Label Image Classification](https://dl.acm.org/doi/pdf/10.1145/3503161.3548343)|ACM MM|2022|`NW`,`COCO`,`VOC07`|[Official](https://github.com/jasonseu/TSFormer#two-stream-transformer-for-multi-label-image-classification)|
 |[Label-aware Graph Representation Learning for Multi-label Image Classification](https://www.sciencedirect.com/science/article/pii/S0925231222003721)|Neurocomputing|2022|`COCO`,`VOC07`,`VOC12`|-|
-|[]()||||[Official]()|
+|[Hierarchical GAN-Tree and Bi-Directional Capsules for Multi-label Image Classification](https://www.sciencedirect.com/science/article/pii/S0950705121010510)|KBS|2022|`NW`,`COCO`,`VOC07`|-|
 |[]()||||[Official]()|
 
 ### 2022
