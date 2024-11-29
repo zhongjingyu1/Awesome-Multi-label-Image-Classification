@@ -96,8 +96,8 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |[HSVLT: Hierarchical Scale-Aware Vision-Language Transformer for Multi-Label Image Classification](https://arxiv.org/pdf/2407.16244)|ACM MM|2023|`NW`,`COCO`,`VOC07`|[Official](https://github.com/NaturalKnight/HSVLT)|
 |[Spatial Context-Aware Object-Attentional Network for Multi-Label Image Classification](https://ieeexplore.ieee.org/document/10122681)|TIP|2023|`COCO17`,`VOC07`|-|
 |[Beyond Word Embeddings: Heterogeneous Prior Knowledge Driven Multi-Label Image Classification](https://ieeexplore.ieee.org/abstract/document/9765340)|TMM|2023|`NW`,`COCO`,`VOC07`|-|
-|[]()||||[Official]()|
-|[]()||||[Official]()|
+|[Learning Graph Convolutional Networks for Multi-Label Recognition and Applications](https://ieeexplore.ieee.org/document/9369105)|TPAMI|2023|`NW`,`COCO`,`VOC07`|-|
+|[Contrastively enforcing distinctiveness for multi-label image classification](https://www.sciencedirect.com/science/article/pii/S0925231223007282)|Neurocomputing|2023|`NW`,`COCO`,`VOC07`,`VG500`|[Official](https://github.com/SonDaoDuy/MulCon/tree/main)|
 |[]()||||[Official]()|
 
 ### 2024
