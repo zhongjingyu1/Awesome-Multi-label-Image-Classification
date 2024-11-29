@@ -87,7 +87,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |  Title   | Venue  | Year| Datasets | Code|
 |  ----  | ----  |----  |----  |----  |
 |[MuMIC-Multimodal Embedding for Multi-Label Image Classification with Tempered Sigmoid](https://ojs.aaai.org/index.php/AAAI/article/view/26850/26622)|AAAI|2023|-|-|
-|[]()||||[Official]()|
+|[Open-Vocabulary Multi-Label Classification via Multi-Modal Knowledge Transfer](https://ojs.aaai.org/index.php/AAAI/article/view/25159/24931)|AAAI|2023|`NW`,`open`|[Official](https://github.com/sunanhe/MKT)|
 |[]()||||[Official]()|
 |[]()||||[Official]()|
 |[]()||||[Official]()|
