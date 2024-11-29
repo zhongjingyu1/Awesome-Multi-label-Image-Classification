@@ -94,7 +94,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |[PatchCT: Aligning Patch Set and Label Set with Conditional Transport for Multi-Label Image Classification](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_PatchCT_Aligning_Patch_Set_and_Label_Set_with_Conditional_Transport_ICCV_2023_paper.pdf)|ICCV|2023|`NW`,`COCO`,`VOC07`|-|
 |[Scene-Aware Label Graph Learning for Multi-Label Image Classification](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhu_Scene-Aware_Label_Graph_Learning_for_Multi-Label_Image_Classification_ICCV_2023_paper.pdf)|ICCV|2023|`NW`,`COCO`,`VOC07`|[Official](https://github.com/jasonseu/SALGL/tree/main)|
 |[HSVLT: Hierarchical Scale-Aware Vision-Language Transformer for Multi-Label Image Classification](https://arxiv.org/pdf/2407.16244)|ACM MM|2023|`NW`,`COCO`,`VOC07`|[Official](https://github.com/NaturalKnight/HSVLT)|
-|[Spatial Context-Aware Object-Attentional Network for Multi-Label Image Classification](https://ieeexplore.ieee.org/document/10122681)|TIP|2023||[Official]()|
+|[Spatial Context-Aware Object-Attentional Network for Multi-Label Image Classification](https://ieeexplore.ieee.org/document/10122681)|TIP|2023|`COCO17`,`VOC07`|-|
 |[]()||||[Official]()|
 |[]()||||[Official]()|
 |[]()||||[Official]()|
