@@ -110,6 +110,8 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |  ----  | ----  |----  |----  |----  |
 |[Hybrid Sharing for Multi-Label Image Classification](https://openreview.net/pdf?id=yVJd8lKyVX)|ICLR|2024|`COCO`,`VOC07`|[Official](https://github.com/zihao-yin/HSQ)|
 |[Counterfactual Reasoning for Multi-Label Image Classification via Patching-Based Training](https://openreview.net/attachment?id=lQIN9ZyMLz&name=pdf)|ICML|2024|`COCO`,`VOC07`,`VG256`|[Official](https://github.com/xiemk/MLC-PAT)|
+|[Mining Semantic Information With Dual Relation Graph Network for Multi-Label Image Classification](https://ieeexplore.ieee.org/document/10128751)|TMM|2024|`COCO`,`VOC07`,`VG500`|-|
+|[]()||||[Official]()|
 |[]()||||[Official]()|
 
 Attentive recurrent neural network for weak-supervised multi-label image classification
