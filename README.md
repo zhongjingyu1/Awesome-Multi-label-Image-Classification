@@ -98,6 +98,8 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |[Beyond Word Embeddings: Heterogeneous Prior Knowledge Driven Multi-Label Image Classification](https://ieeexplore.ieee.org/abstract/document/9765340)|TMM|2023|`NW`,`COCO`,`VOC07`|-|
 |[Learning Graph Convolutional Networks for Multi-Label Recognition and Applications](https://ieeexplore.ieee.org/document/9369105)|TPAMI|2023|`NW`,`COCO`,`VOC07`|-|
 |[Contrastively enforcing distinctiveness for multi-label image classification](https://www.sciencedirect.com/science/article/pii/S0925231223007282)|Neurocomputing|2023|`NW`,`COCO`,`VOC07`,`VG500`|[Official](https://github.com/SonDaoDuy/MulCon/tree/main)|
+|[Balanced Masking Strategy for Multi-label Image Classification](https://www.sciencedirect.com/science/article/pii/S0925231222014023)|Neurocomputing|2023|`COCO`,`VOC07`|-|
+|[Feature Learning Network with Transformer for Multi-label Image Classification](https://www.sciencedirect.com/science/article/pii/S0031320322006823)|PR|2023|`NW`,`COCO`,`VOC07`|-|
 |[]()||||[Official]()|
 
 ### 2024
