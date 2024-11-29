@@ -6,6 +6,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |[Pascal VOC 2007](http://host.robots.ox.ac.uk/pascal/VOC/) (`VOC07`)|20|5,011|4952|2.5|
 |[Pascal VOC 2012](http://host.robots.ox.ac.uk/pascal/VOC/) (`VOC12`)|20|11,540|10,991|2.5|
 |[MS-COCO 2014](https://cocodataset.org/#download) (`COCO`)|80|82,081|40,504|2.9|
+|MS-COCO 2017 (`COCO17`)|80|118,287|40,670|-|
 |NUS-WIDE (`NW`)|81|125,449|83898|2.4|
 |WIDER Attribute (`WA`)|14|28,345|29,179||
 |PA-100K (`PA`)|26|9,000|1,000||
@@ -93,6 +94,10 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |[PatchCT: Aligning Patch Set and Label Set with Conditional Transport for Multi-Label Image Classification](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_PatchCT_Aligning_Patch_Set_and_Label_Set_with_Conditional_Transport_ICCV_2023_paper.pdf)|ICCV|2023|`NW`,`COCO`,`VOC07`|-|
 |[Scene-Aware Label Graph Learning for Multi-Label Image Classification](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhu_Scene-Aware_Label_Graph_Learning_for_Multi-Label_Image_Classification_ICCV_2023_paper.pdf)|ICCV|2023|`NW`,`COCO`,`VOC07`|[Official](https://github.com/jasonseu/SALGL/tree/main)|
 |[HSVLT: Hierarchical Scale-Aware Vision-Language Transformer for Multi-Label Image Classification](https://arxiv.org/pdf/2407.16244)|ACM MM|2023|`NW`,`COCO`,`VOC07`|[Official](https://github.com/NaturalKnight/HSVLT)|
+|[Spatial Context-Aware Object-Attentional Network for Multi-Label Image Classification](https://ieeexplore.ieee.org/document/10122681)|TIP|2023||[Official]()|
+|[]()||||[Official]()|
+|[]()||||[Official]()|
+|[]()||||[Official]()|
 |[]()||||[Official]()|
 
 ### 2024
