@@ -70,6 +70,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |[M3TR: Multi-modal Multi-label Recog nition with Transformer](https://dl.acm.org/doi/pdf/10.1145/3474085.3475191)|ACM MM|2021|`COCO`,`VOC07`|[Official](https://github.com/iCVTEAM/M3TR)|
 |[AdaHGNN: Adaptive Hypergraph Neural Networks for Multi-Label Image Classification](https://openreview.net/pdf?id=pKCf8staKu)|ACM MM|2021|`NW`,`COCO`,`VOC07`,`VG500`|-|
 |[Deep-LIFT: Deep Label-Specific Feature Learning for Image Annotation](https://ieeexplore.ieee.org/document/9352498)|TCYB|2021|`COCO`,`VOC07`|[Official](https://github.com/yidaiqiushen/Deep-LIFT)|
+|[Distance Restricted Transformer Encoder for Multi-Label Classification](https://ieeexplore.ieee.org/document/9428164)|ICME|2021|`COCO`,`WA`|[Official](https://github.com/xiaomeiyy/DRTE)|
 |[]()||||[Official]()|
 
 ### 2022
@@ -112,7 +113,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |[Hybrid Sharing for Multi-Label Image Classification](https://openreview.net/pdf?id=yVJd8lKyVX)|ICLR|2024|`COCO`,`VOC07`|[Official](https://github.com/zihao-yin/HSQ)|
 |[Counterfactual Reasoning for Multi-Label Image Classification via Patching-Based Training](https://openreview.net/attachment?id=lQIN9ZyMLz&name=pdf)|ICML|2024|`COCO`,`VOC07`,`VG256`|[Official](https://github.com/xiemk/MLC-PAT)|
 |[Mining Semantic Information With Dual Relation Graph Network for Multi-Label Image Classification](https://ieeexplore.ieee.org/document/10128751)|TMM|2024|`COCO`,`VOC07`,`VG500`|-|
-|[]()||||[Official]()|
+|[Robust Image Classification With Noisy Labels by Negative Learning and Feature Space Renormalization](https://ieeexplore.ieee.org/document/10496838)|TMM|2024||-|
 |[]()||||[Official]()|
 
 Attentive recurrent neural network for weak-supervised multi-label image classification
