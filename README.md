@@ -104,6 +104,10 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |[]()||||[Official]()|
 
 ### 2024
+|  Title   | Venue  | Year| Datasets | Code|
+|  ----  | ----  |----  |----  |----  |
+|[Hybrid Sharing for Multi-Label Image Classification](https://openreview.net/pdf?id=yVJd8lKyVX)|ICLR|2024|`COCO`,`VOC07`|[Official](https://github.com/zihao-yin/HSQ)|
+
 Attentive recurrent neural network for weak-supervised multi-label image classification
 
 ## 5. Other Resources
