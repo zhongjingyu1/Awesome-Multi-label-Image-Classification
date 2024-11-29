@@ -80,8 +80,8 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |[Semantic Supplementary Network With Prior Information for Multi-Label Image Classification](https://ieeexplore.ieee.org/abstract/document/9441021)|TCSVT|2022|`NW`,`COCO`,`VOC07`|-|
 |[Multi-Label Image Classification via Category Prototype Compositional Learning](https://ieeexplore.ieee.org/abstract/document/9614128)|TCSVT|2022|`NW`,`COCO`,`VOC07`|[Official](https://github.com/FT-ZHOU-ZZZ/CPCL)|
 |[SST: Spatial and Semantic Transformers for Multi-Label Image Recognition](https://ieeexplore.ieee.org/document/9733172)|TIP|2022|`NW`,`COCO`,`VOC07`|-|
+|[Knowledge-Guided Multi-Label Few-Shot Learning for General Image Recognition](https://ieeexplore.ieee.org/abstract/document/9207855)|TPAMI|2022|`COCO`,`VOC07`,`VOC12`,`VG500`|-|
 |[]()||||[Official]()|
-
 
 ### 2023
 Attentive recurrent neural network for weak-supervised multi-label image classification
