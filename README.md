@@ -88,7 +88,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |  ----  | ----  |----  |----  |----  |
 |[MuMIC-Multimodal Embedding for Multi-Label Image Classification with Tempered Sigmoid](https://ojs.aaai.org/index.php/AAAI/article/view/26850/26622)|AAAI|2023|-|-|
 |[Open-Vocabulary Multi-Label Classification via Multi-Modal Knowledge Transfer](https://ojs.aaai.org/index.php/AAAI/article/view/25159/24931)|AAAI|2023|`NW`,`open`|[Official](https://github.com/sunanhe/MKT)|
-|[]()||||[Official]()|
+|[CDUL: CLIP-Driven Unsupervised Learning for Multi-Label Image Classification](https://openaccess.thecvf.com/content/ICCV2023/papers/Abdelfattah_CDUL_CLIP-Driven_Unsupervised_Learning_for_Multi-Label_Image_Classification_ICCV_2023_paper.pdf)|ICCV|2023|`NW`,`COCO`,`VOC07`,`VOC12`|[Official](https://github.com/cs-mshah/CDUL)|
 |[]()||||[Official]()|
 |[]()||||[Official]()|
 |[]()||||[Official]()|
