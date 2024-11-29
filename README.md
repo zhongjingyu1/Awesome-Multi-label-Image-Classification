@@ -29,6 +29,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |[Multi-Label Image Classification via Knowledge Distillation from Weakly-Supervised Detection](https://arxiv.org/pdf/1809.05884)|ACM MM|2018|`NW`,`COCO`|[Official](https://github.com/Yochengliu/MLIC-KD-WSD)|
 |[Multilabel Image Classification With Regional Latent Semantic Dependencies](https://click.endnote.com/viewer?doi=10.1109%2Ftmm.2018.2812605&token=WzM0ODAwNzgsIjEwLjExMDkvdG1tLjIwMTguMjgxMjYwNSJd.GJxNPnwI4HLO2_AbRR2Bw0ha3jM)|TMM|2018|`NW`,`COCO`,`VOC07`|-|
 |[Recurrent Attentional Reinforcement Learning for Multi-label Image Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/12281/12140)|AAAI|2018|`COCO`,`VOC07`|-|
+|[Reinforced Multi-label Image Classification by Exploring Curriculum](https://ojs.aaai.org/index.php/AAAI/article/view/11770/11629)|AAAI|2018|`VOC07`,`VOC12`|-|
 |[Multi-scale and Discriminative Part Detectors Based Features for Multi-label Image Classification](https://www.ijcai.org/Proceedings/2018/0090.pdf)|IJCAI|2018|`VOC07`,`VOC12`|-|
 |[Multi-label Image Recognition With Graph Convolutional Networks](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Multi-Label_Image_Recognition_With_Graph_Convolutional_Networks_CVPR_2019_paper.pdf)|CVPR|2019|`COCO`,`VOC07`|[Official](https://github.com/megvii-research/ML-GCN)|
 |[Learning Semantic-specific Graph Representation for Multi-label Image Recognition](https://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Learning_Semantic-Specific_Graph_Representation_for_Multi-Label_Image_Recognition_ICCV_2019_paper.pdf)|ICCV|2019|`COCO`,`VOC07`,`VOC12`|[Official](https://github.com/HCPLab-SYSU/SSGRL)|
@@ -69,7 +70,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |[Boosting Multi-Label Image Classification with Complementary Parallel Self-Distillation](https://www.ijcai.org/proceedings/2022/0208.pdf)|IJCAI|2022|`NW`,`COCO`|[Official](https://github.com/Robbie-Xu/CPSD)|
 |[Global Meets Local: Effective Multi-Label Image Classification via Category-Aware Weak Supervision](https://arxiv.org/pdf/2211.12716)|ACM MM|2022|`COCO`,`VOC07`|-|
 |[Two-Stream Transformer for Multi-Label Image Classification](https://dl.acm.org/doi/pdf/10.1145/3503161.3548343)|ACM MM|2022|`NW`,`COCO`,`VOC07`|[Official](https://github.com/jasonseu/TSFormer#two-stream-transformer-for-multi-label-image-classification)|
-|[]()||||[Official]()|
+|[Label-aware Graph Representation Learning for Multi-label Image Classification](https://www.sciencedirect.com/science/article/pii/S0925231222003721)|Neurocomputing|2022|`COCO`,`VOC07`,`VOC12`|-|
 |[]()||||[Official]()|
 |[]()||||[Official]()|
 
