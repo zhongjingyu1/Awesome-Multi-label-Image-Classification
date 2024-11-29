@@ -12,7 +12,8 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |PA-100K (`PA`)|26|9,000|1,000||
 |Fashion550K (`F550`)|66||||
 |Charades (`Cha`)|157|8,000|1,800|6.8|
-|Visual Genome (`VG500`)|500|108,249|-|-|
+|Visual Genome (`VG500`)|500|75,774|32,475|-|
+|Visual Genome 256 (`VG256`)|256|75,774|32,475|-|
 |IAPRTC-12 (`IA12`)|275|13,989|6,011|-|
 ## 4. Top-tier Conference Papers
 ### 2014--2019
@@ -107,6 +108,8 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |  Title   | Venue  | Year| Datasets | Code|
 |  ----  | ----  |----  |----  |----  |
 |[Hybrid Sharing for Multi-Label Image Classification](https://openreview.net/pdf?id=yVJd8lKyVX)|ICLR|2024|`COCO`,`VOC07`|[Official](https://github.com/zihao-yin/HSQ)|
+|[Counterfactual Reasoning for Multi-Label Image Classification via Patching-Based Training](https://openreview.net/attachment?id=lQIN9ZyMLz&name=pdf)|ICML|2024|`COCO`,`VOC07`,`VG256`|[Official](https://github.com/xiemk/MLC-PAT)|
+|[]()||||[Official]()|
 
 Attentive recurrent neural network for weak-supervised multi-label image classification
 
