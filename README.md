@@ -94,7 +94,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |[]()||||[Official]()|
 |[]()||||[Official]()|
 
-### 2023
+### 2024
 Attentive recurrent neural network for weak-supervised multi-label image classification
 
 ## 5. Other Resources
