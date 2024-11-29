@@ -76,7 +76,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |[Label-aware Graph Representation Learning for Multi-label Image Classification](https://www.sciencedirect.com/science/article/pii/S0925231222003721)|Neurocomputing|2022|`COCO`,`VOC07`,`VOC12`|-|
 |[Hierarchical GAN-Tree and Bi-Directional Capsules for Multi-label Image Classification](https://www.sciencedirect.com/science/article/pii/S0950705121010510)|KBS|2022|`NW`,`COCO`,`VOC07`,`IA12`|-|
 |[Semantic Supplementary Network With Prior Information for Multi-Label Image Classification](https://ieeexplore.ieee.org/abstract/document/9441021)|TCSVT|2022|`NW`,`COCO`,`VOC07`|-|
-|[SST: Spatial and Semantic Transformers for Multi-Label Image Recognition]()||||[Official]()|
+|[SST: Spatial and Semantic Transformers for Multi-Label Image Recognition](https://ieeexplore.ieee.org/document/9733172)|TIP|2022|`NW`,`COCO`,`VOC07`|-|
 |[]()||||[Official]()|
 |[]()||||[Official]()|
 
