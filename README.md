@@ -86,7 +86,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 ### 2023
 |  Title   | Venue  | Year| Datasets | Code|
 |  ----  | ----  |----  |----  |----  |
-|[]()||||[Official]()|
+|[MuMIC-Multimodal Embedding for Multi-Label Image Classification with Tempered Sigmoid](https://ojs.aaai.org/index.php/AAAI/article/view/26850/26622)|AAAI|2023|-|-|
 |[]()||||[Official]()|
 |[]()||||[Official]()|
 |[]()||||[Official]()|
