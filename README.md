@@ -81,6 +81,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |[Multi-Label Image Classification via Category Prototype Compositional Learning](https://ieeexplore.ieee.org/abstract/document/9614128)|TCSVT|2022|`NW`,`COCO`,`VOC07`|[Official](https://github.com/FT-ZHOU-ZZZ/CPCL)|
 |[SST: Spatial and Semantic Transformers for Multi-Label Image Recognition](https://ieeexplore.ieee.org/document/9733172)|TIP|2022|`NW`,`COCO`,`VOC07`|-|
 |[Knowledge-Guided Multi-Label Few-Shot Learning for General Image Recognition](https://ieeexplore.ieee.org/abstract/document/9207855)|TPAMI|2022|`COCO`,`VOC07`,`VOC12`,`VG500`|-|
+|[MLTR: Multi-Label Classification with Transformer](https://ieeexplore.ieee.org/abstract/document/9860016)|ICME|2022|`NW`,`COCO`,`VOC07`|-|
 |[]()||||[Official]()|
 
 ### 2023
