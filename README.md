@@ -66,6 +66,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |[TkML-AP: Adversarial Attacks to Top-k Multi-Label Learning](https://openaccess.thecvf.com/content/ICCV2021/papers/Hu_TkML-AP_Adversarial_Attacks_to_Top-k_Multi-Label_Learning_ICCV_2021_paper.pdf)|ICCV|2021|`COCO`,`VOC12`|[Official](https://github.com/discovershu/TKML-AP)|
 |[M3TR: Multi-modal Multi-label Recog nition with Transformer](https://dl.acm.org/doi/pdf/10.1145/3474085.3475191)|ACM MM|2021|`COCO`,`VOC07`|[Official](https://github.com/iCVTEAM/M3TR)|
 |[AdaHGNN: Adaptive Hypergraph Neural Networks for Multi-Label Image Classification](https://openreview.net/pdf?id=pKCf8staKu)|ACM MM|2021|`NW`,`COCO`,`VOC07`,`VG500`|-|
+|[Deep-LIFT: Deep Label-Specific Feature Learning for Image Annotation](https://ieeexplore.ieee.org/document/9352498)|TCYB|2021|`COCO`,`VOC07`|[Official](https://github.com/yidaiqiushen/Deep-LIFT)|
 |[]()||||[Official]()|
 
 ### 2022
