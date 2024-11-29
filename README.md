@@ -58,13 +58,14 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |  Title   | Venue  | Year| Datasets | Code|
 |  ----  | ----  |----  |----  |----  |
 |[Learning to Discover Multi-Class Attentional Regions for Multi Label Image Recognition](https://ieeexplore.ieee.org/document/9466402)|TIP|2021|`COCO`,`VOC07`,`VOC12`|[Official](https://github.com/gaobb/MCAR)|
-|[Asymmetric Loss For Multi-Label Classification](https://openaccess.thecvf.com/content/ICCV2021/papers/Ridnik_Asymmetric_Loss_for_Multi-Label_Classification_ICCV_2021_paper.pdf)|ICCV|2021|`NW`,`COCO`,`VOC07`|[Official](https://github.com/Alibaba-MIIL/ASL)|
 |[GM-MLIC: Graph Matching based Multi-Label Image Classification](https://www.ijcai.org/proceedings/2021/0163.pdf)|IJCAI|2021|`NW`,`COCO`,`VOC07`|-|
 |[Modular Graph Transformer Networks for Multi-Label Image Classification](https://ojs.aaai.org/index.php/AAAI/article/view/17098/16905)|AAAI|2021|`COCO`,`F550`|[Official](https://github.com/ReML-AI/MGTN)|
 |[Deep Semantic Dictionary Learning for Multi-label Image Classification](https://ojs.aaai.org/index.php/AAAI/article/download/16472/16279)|AAAI|2021|`COCO`,`VOC07`,`VOC12`|[Official](https://github.com/FT-ZHOU-ZZZ/DSDL)|
 |[Query2Label: A Simple Transformer Way to Multi-Label Classification](https://arxiv.org/pdf/2107.10834v1)|arXiv|2021|`NW`,`COCO`,`VOC07`,`VOC12`,`VG500`|[Official](https://github.com/SlongLiu/query2labels)|
 |[General Multi-label Image Classification with Transformers](https://openaccess.thecvf.com/content/CVPR2021/papers/Lanchantin_General_Multi-Label_Image_Classification_With_Transformers_CVPR_2021_paper.pdf)|CVPR|2021|`COCO`,`VG500`|[Official](https://github.com/QData/C-Tran)|
 |[Residual Attention: A Simple But Effective Method for Multi-Label Recoginition](https://arxiv.org/pdf/2108.02456v1)|ICCV|2021|`COCO`,`VOC07`,`VOC12`,`WA`|[Official](https://github.com/Kevinz-code/CSRA)|
+|[Asymmetric Loss For Multi-Label Classification](https://openaccess.thecvf.com/content/ICCV2021/papers/Ridnik_Asymmetric_Loss_for_Multi-Label_Classification_ICCV_2021_paper.pdf)|ICCV|2021|`NW`,`COCO`,`VOC07`|[Official](https://github.com/Alibaba-MIIL/ASL)|
+|[Transformer-based Dual Relation Graph for Multi-label Image Recognition](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Transformer-Based_Dual_Relation_Graph_for_Multi-Label_Image_Recognition_ICCV_2021_paper.pdf)|ICCV|2021|`COCO`,`VOC07`|[Official](https://github.com/iCVTEAM/TDRG)|
 |[TkML-AP: Adversarial Attacks to Top-k Multi-Label Learning](https://openaccess.thecvf.com/content/ICCV2021/papers/Hu_TkML-AP_Adversarial_Attacks_to_Top-k_Multi-Label_Learning_ICCV_2021_paper.pdf)|ICCV|2021|`COCO`,`VOC12`|[Official](https://github.com/discovershu/TKML-AP)|
 |[M3TR: Multi-modal Multi-label Recog nition with Transformer](https://dl.acm.org/doi/pdf/10.1145/3474085.3475191)|ACM MM|2021|`COCO`,`VOC07`|[Official](https://github.com/iCVTEAM/M3TR)|
 |[AdaHGNN: Adaptive Hypergraph Neural Networks for Multi-Label Image Classification](https://openreview.net/pdf?id=pKCf8staKu)|ACM MM|2021|`NW`,`COCO`,`VOC07`,`VG500`|-|
