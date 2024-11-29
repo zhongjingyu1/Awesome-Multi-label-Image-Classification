@@ -73,9 +73,13 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |[Two-Stream Transformer for Multi-Label Image Classification](https://dl.acm.org/doi/pdf/10.1145/3503161.3548343)|ACM MM|2022|`NW`,`COCO`,`VOC07`|[Official](https://github.com/jasonseu/TSFormer#two-stream-transformer-for-multi-label-image-classification)|
 |[Label-aware Graph Representation Learning for Multi-label Image Classification](https://www.sciencedirect.com/science/article/pii/S0925231222003721)|Neurocomputing|2022|`COCO`,`VOC07`,`VOC12`|-|
 |[Hierarchical GAN-Tree and Bi-Directional Capsules for Multi-label Image Classification](https://www.sciencedirect.com/science/article/pii/S0950705121010510)|KBS|2022|`NW`,`COCO`,`VOC07`,`IA12`|-|
+|[Semantic Supplementary Network With Prior Information for Multi-Label Image Classification](https://ieeexplore.ieee.org/abstract/document/9441021)|TCSVT|2022|`NW`,`COCO`,`VOC07`|-|
+|[]()||||[Official]()|
+|[]()||||[Official]()|
 |[]()||||[Official]()|
 
-### 2022
+
+### 2023
 
 ## 5. Other Resources
 - [Awesome-Multi-label-Image-Recognition](https://github.com/JiaweiZhao-git/Awesome-Multi-label-Image-Recognition)
