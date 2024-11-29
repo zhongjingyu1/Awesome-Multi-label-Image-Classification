@@ -115,6 +115,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |[Mining Semantic Information With Dual Relation Graph Network for Multi-Label Image Classification](https://ieeexplore.ieee.org/document/10128751)|TMM|2024|`COCO`,`VOC07`,`VG500`|-|
 |[Conditional Consistency Regularization for Semi-Supervised Multi-Label Image Classification](https://ieeexplore.ieee.org/abstract/document/10283961)|TMM|2024|`COCO`,`VOC07`|-|
 |[DATran: Dual Attention Transformer for Multi-Label Image Classification](https://ieeexplore.ieee.org/document/10147882)|TCSVT|2024|`COCO`,`VOC07`,`VG500`|-|
+|[Transformer Driven Matching Selection Mechanism for Multi-Label Image Classification](https://ieeexplore.ieee.org/document/10158710)|TCSVT|2024|`NW`,`COCO`,`VOC07`,`VOC12`|[Official]()|
 |[]()||||[Official]()|
 
 Attentive recurrent neural network for weak-supervised multi-label image classification
