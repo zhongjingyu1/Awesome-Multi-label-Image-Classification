@@ -51,7 +51,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |**[A-GCN]**[Learning Class Correlations for Multi-label Image Recognition with Graph Networks](https://www.sciencedirect.com/science/article/pii/S0167865520302968)|PRL|2020|`COCO`,`F550`|[Official](https://github.com/queenie88/A-GCN)|
 |**[ADD-GCN]**[Attention-Driven Dynamic Graph Convolutional Network for Multi-label Image Recognition](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660647.pdf)|ECCV|2020|`COCO`,`VOC07`,`VOC12`|[Official](https://github.com/Yejin0111/ADD-GCN)|
 |**[F-GCN]**[Fast Graph Convolution Network Based Multi-label Image Recognition via Cross-modal Fusion](https://dl.acm.org/doi/10.1145/3340531.3411880)|CIKM|2020|`COCO`,`VOC07`|-|
-|**[MSSAF]**[Multi-scale Cross-modal Spatial Attention Fusion for Multi-label Image Recognition](ttps://link.springer.com/content/pdf/10.1007/978-3-030-61609-0_58.pdf)|ICANN|2020||-|
+|**[MSSAF]**[Multi-scale Cross-modal Spatial Attention Fusion for Multi-label Image Recognition](https://link.springer.com/content/pdf/10.1007/978-3-030-61609-0_58.pdf)|ICANN|2020||-|
 
 ### 2021
 |  Title   | Venue  | Year| Datasets | Code|
