@@ -19,8 +19,8 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 ### 2014--2019
 |  Title   | Venue  | Year| Datasets | Code|
 |  ----  | ----  |----  |----  |----  |
-|[####1aaa][Deep Convolutional Ranking for Multilabel Image Annotation](https://arxiv.org/pdf/1312.4894)|-|2014|`NW`|-|
-|[HCP: AFlexible CNN Framework for Multi-Label Image Classification](http://mepro.bjtu.edu.cn/res/papers/2016/HCP_%20A%20Flexible%20CNN%20Framework%20for%20Multi-Label%20Image%20Classification.pdf)|TPAMI|2016|`VOC07`,`VOC12`|-|
+|[Deep Convolutional Ranking for Multilabel Image Annotation](https://arxiv.org/pdf/1312.4894)|-|2014|`NW`|-|
+|**[HCP]**[: AFlexible CNN Framework for Multi-Label Image Classification](http://mepro.bjtu.edu.cn/res/papers/2016/HCP_%20A%20Flexible%20CNN%20Framework%20for%20Multi-Label%20Image%20Classification.pdf)|TPAMI|2016|`VOC07`,`VOC12`|-|
 |[CNN-RNN: AUnified Framework for Multi-label Image Classification](https://openaccess.thecvf.com/content_cvpr_2016/papers/Wang_CNN-RNN_A_Unified_CVPR_2016_paper.pdf)|CVPR|2016|`NW`,`COCO`,`VOC07`|[Official](https://github.com/shemayon/CNN-RNN-A-Unified-Framework-for-Multi-Label-Image-Classification)|
 |[Exploit Bounding Box Annotations for Multi-Label Object Recognition](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yang_Exploit_Bounding_Box_CVPR_2016_paper.pdf)|CVPR|2016|`VOC07`,`VOC12`|-|
 |[Beyond Object Proposals: Random Crop Pooling for Multi-Label Image Recognition](https://ieeexplore.ieee.org/abstract/document/7574320)|TIP|2016|`VOC07`,`VOC12`|-|
