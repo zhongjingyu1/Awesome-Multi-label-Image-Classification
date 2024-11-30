@@ -33,26 +33,25 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |**[RLSD]**[Multilabel Image Classification With Regional Latent Semantic Dependencies](https://click.endnote.com/viewer?doi=10.1109%2Ftmm.2018.2812605&token=WzM0ODAwNzgsIjEwLjExMDkvdG1tLjIwMTguMjgxMjYwNSJd.GJxNPnwI4HLO2_AbRR2Bw0ha3jM)|TMM|2018|`NW`,`COCO`,`VOC07`|-|
 |**[RARL]**[Recurrent Attentional Reinforcement Learning for Multi-label Image Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/12281/12140)|AAAI|2018|`COCO`,`VOC07`|-|
 |**[RMIC]**[Reinforced Multi-label Image Classification by Exploring Curriculum](https://ojs.aaai.org/index.php/AAAI/article/view/11770/11629)|AAAI|2018|`VOC07`,`VOC12`|-|
-|**[]**[Multi-scale and Discriminative Part Detectors Based Features for Multi-label Image Classification](https://www.ijcai.org/Proceedings/2018/0090.pdf)|IJCAI|2018|`VOC07`,`VOC12`|-|
+|**[MsDPD]**[Multi-scale and Discriminative Part Detectors Based Features for Multi-label Image Classification](https://www.ijcai.org/Proceedings/2018/0090.pdf)|IJCAI|2018|`VOC07`,`VOC12`|-|
 |**[ML-GCN]**[Multi-label Image Recognition With Graph Convolutional Networks](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Multi-Label_Image_Recognition_With_Graph_Convolutional_Networks_CVPR_2019_paper.pdf)|CVPR|2019|`COCO`,`VOC07`|[Official](https://github.com/megvii-research/ML-GCN)|
 |**[SSGRL]**[Learning Semantic-specific Graph Representation for Multi-label Image Recognition](https://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Learning_Semantic-Specific_Graph_Representation_for_Multi-Label_Image_Recognition_ICCV_2019_paper.pdf)|ICCV|2019|`COCO`,`VOC07`,`VOC12`|[Official](https://github.com/HCPLab-SYSU/SSGRL)|
 |**[CADM]**[Multi-label Image Recognition with Joint Class-aware Map Disentangling and Label Correlation Embedding](https://www.lamda.nju.edu.cn/weixs/publication/icme19.pdf)|ICME|2019|`NW`,`COCO`|-|
 |**[ACfs]**[Visual Attention Consistency under Image Transforms for Multi-Label Image Classification](https://openaccess.thecvf.com/content_CVPR_2019/papers/Guo_Visual_Attention_Consistency_Under_Image_Transforms_for_Multi-Label_Image_Classification_CVPR_2019_paper.pdf)|CVPR|2019|`COCO`,`WA`,`PA`|[Official](https://github.com/hguosc/visual_attention_consistency)|
 |**[CoP]**[Multilabel Image Classification via Feature/Label Co-Projection](https://ieeexplore.ieee.org/document/8985434)|TSMC|2019|`COCO`,`VOC07`|-|
 |**[DELTA]**[DELTA: A deep dual-stream network for multi-label image classification](https://www.sciencedirect.com/science/article/pii/S0031320319301050)|PR|2019|`COCO`,`VOC07`|-|
-|[]()||||[Official]()|
 
 ### 2020
 |  Title   | Venue  | Year| Datasets | Code|
 |  ----  | ----  |----  |----  |----  |
-|[Orderless Recurrent Models for Multi-label Classification](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yazici_Orderless_Recurrent_Models_for_Multi-Label_Classification_CVPR_2020_paper.pdf)|CVPR|2020|`NW`,`COCO`,`WA`,`PA`|[Official](https://github.com/voyazici/orderless-rnn-classification)|
-|[Joint Input and Output Space Learning for Multi-Label Image Classification](https://ieeexplore.ieee.org/document/9115821)|TMM|2020|`COCO`,`VOC07`|-|
-|[Cross-Modality Attention with Semantic Graph Embedding for Multi-Label Classification](https://ojs.aaai.org/index.php/AAAI/article/view/6964/6818)|AAAI|2020|`NW`,`COCO`|-|
-|[Multi-Label Classification with Label Graph Superimposing](https://arxiv.org/pdf/1911.09243)|AAAI|2020|`COCO`,`Cha`|[Official](https://github.com/mathkey/mssnet)|
-|[Learning Class Correlations for Multi-label Image Recognition with Graph Networks](https://www.sciencedirect.com/science/article/pii/S0167865520302968)|PRL|2020|`COCO`,`F550`|[Official](https://github.com/queenie88/A-GCN)|
-|[Attention-Driven Dynamic Graph Convolutional Network for Multi-label Image Recognition](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660647.pdf)|ECCV|2020|`COCO`,`VOC07`,`VOC12`|[Official](https://github.com/Yejin0111/ADD-GCN)|
-|[Fast Graph Convolution Network Based Multi-label Image Recognition via Cross-modal Fusion](https://dl.acm.org/doi/10.1145/3340531.3411880)|CIKM|2020|`COCO`,`VOC07`|-|
-|[]()||||[Official]()|
+|**[PLA]**[Orderless Recurrent Models for Multi-label Classification](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yazici_Orderless_Recurrent_Models_for_Multi-Label_Classification_CVPR_2020_paper.pdf)|CVPR|2020|`NW`,`COCO`,`WA`,`PA`|[Official](https://github.com/voyazici/orderless-rnn-classification)|
+|**[TSGCN]**[Joint Input and Output Space Learning for Multi-Label Image Classification](https://ieeexplore.ieee.org/document/9115821)|TMM|2020|`COCO`,`VOC07`|-|
+|**[CMA]**[Cross-Modality Attention with Semantic Graph Embedding for Multi-Label Classification](https://ojs.aaai.org/index.php/AAAI/article/view/6964/6818)|AAAI|2020|`NW`,`COCO`|-|
+|**[KSSNet]**[Multi-Label Classification with Label Graph Superimposing](https://arxiv.org/pdf/1911.09243)|AAAI|2020|`COCO`,`Cha`|[Official](https://github.com/mathkey/mssnet)|
+|**[A-GCN]**[Learning Class Correlations for Multi-label Image Recognition with Graph Networks](https://www.sciencedirect.com/science/article/pii/S0167865520302968)|PRL|2020|`COCO`,`F550`|[Official](https://github.com/queenie88/A-GCN)|
+|**[ADD-GCN]**[Attention-Driven Dynamic Graph Convolutional Network for Multi-label Image Recognition](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660647.pdf)|ECCV|2020|`COCO`,`VOC07`,`VOC12`|[Official](https://github.com/Yejin0111/ADD-GCN)|
+|**[F-GCN]**[Fast Graph Convolution Network Based Multi-label Image Recognition via Cross-modal Fusion](https://dl.acm.org/doi/10.1145/3340531.3411880)|CIKM|2020|`COCO`,`VOC07`|-|
+|**[MSSAF]**[Multi-scale Cross-modal Spatial Attention Fusion for Multi-label Image Recognition](ttps://link.springer.com/content/pdf/10.1007/978-3-030-61609-0_58.pdf)|ICANN|2020||-|
 
 ### 2021
 |  Title   | Venue  | Year| Datasets | Code|
