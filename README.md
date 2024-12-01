@@ -108,7 +108,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |  ----  | ----  |----  |----  |----  |
 |**[HSQ]**[Hybrid Sharing for Multi-Label Image Classification](https://openreview.net/pdf?id=yVJd8lKyVX)|ICLR|2024|`COCO`,`VOC07`|[Official](https://github.com/zihao-yin/HSQ)|
 |**[MLC-PAT]**[Counterfactual Reasoning for Multi-Label Image Classification via Patching-Based Training](https://openreview.net/attachment?id=lQIN9ZyMLz&name=pdf)|ICML|2024|`COCO`,`VOC07`,`VG256`|[Official](https://github.com/xiemk/MLC-PAT)|
-|**[]**[Mining Semantic Information With Dual Relation Graph Network for Multi-Label Image Classification](https://ieeexplore.ieee.org/document/10128751)|TMM|2024|`COCO`,`VOC07`,`VG500`|-|
+|**[DRGN]**[Mining Semantic Information With Dual Relation Graph Network for Multi-Label Image Classification](https://ieeexplore.ieee.org/document/10128751)|TMM|2024|`COCO`,`VOC07`,`VG500`|-|
 |**[]**[Conditional Consistency Regularization for Semi-Supervised Multi-Label Image Classification](https://ieeexplore.ieee.org/abstract/document/10283961)|TMM|2024|`COCO`,`VOC07`|-|
 |**[DATran]**[DATran: Dual Attention Transformer for Multi-Label Image Classification](https://ieeexplore.ieee.org/document/10147882)|TCSVT|2024|`COCO`,`VOC07`,`VG500`|-|
 |**[C-TMS]**[Transformer Driven Matching Selection Mechanism for Multi-Label Image Classification](https://ieeexplore.ieee.org/document/10158710)|TCSVT|2024|`NW`,`COCO`,`VOC07`,`VOC12`|[Official]()|
