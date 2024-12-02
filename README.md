@@ -26,7 +26,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |**[RCP]**[Beyond Object Proposals: Random Crop Pooling for Multi-Label Image Recognition](https://ieeexplore.ieee.org/abstract/document/7574320)|TIP|2016|`VOC07`,`VOC12`|-|
 |**[SRN]**[Learning Spatial Regularization with Image-level Supervisions for Multi-label Image Classification](https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhu_Learning_Spatial_Regularization_CVPR_2017_paper.pdf)|CVPR|2017|`NW`,`COCO`|[Official](https://github.com/zhufengx/SRN_multilabel/)|
 |**[LSEP]**[Improving Pairwise Ranking for Multi-label Image Classification](https://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Improving_Pairwise_Ranking_CVPR_2017_paper.pdf)|CVPR|2017|`NW`,`COCO`,`VOC07`|[Official](https://github.com/shjo-april/Tensorflow_Improving_Pairwise_Ranking_for_Multi-label_Image_Classification)|
-|**[-]**[Order-Free RNN with Visual Attention for Multi-Label Classification](https://arxiv.org/pdf/1707.05495v1)|AAAI|2017|`NW`,`COCO`|-|
+|**[Order-Free RNN]**[Order-Free RNN with Visual Attention for Multi-Label Classification](https://arxiv.org/pdf/1707.05495v1)|AAAI|2017|`NW`,`COCO`|-|
 |**[Multi-Evidence]**[Multi-Evidence Filtering and Fusion for Multi-Label Classification, Object Detection and Semantic Segmentation Based on Weakly Supervised Learning](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ge_Multi-Evidence_Filtering_and_CVPR_2018_paper.pdf)|CVPR|2017|`COCO`,`VOC07`,`VOC12`|-|
 |**[RDAR]**[Multi-label Image Recognition by Recurrently Discovering Attentional Regions](https://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Multi-Label_Image_Recognition_ICCV_2017_paper.pdf)|ICCV|2017|`COCO`,`VOC07`|[Official](https://github.com/James-Yip/AttentionImageClass)|
 |**[KD-WSD]**[Multi-Label Image Classification via Knowledge Distillation from Weakly-Supervised Detection](https://arxiv.org/pdf/1809.05884)|ACM MM|2018|`NW`,`COCO`|[Official](https://github.com/Yochengliu/MLIC-KD-WSD)|
@@ -75,7 +75,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |  Title   | Venue  | Year| Datasets | Code|
 |  ----  | ----  |----  |----  |----  |
 |**[CPSD]**[Boosting Multi-Label Image Classification with Complementary Parallel Self-Distillation](https://www.ijcai.org/proceedings/2022/0208.pdf)|IJCAI|2022|`NW`,`COCO`|[Official](https://github.com/Robbie-Xu/CPSD)|
-|**[]**[Global Meets Local: Effective Multi-Label Image Classification via Category-Aware Weak Supervision](https://arxiv.org/pdf/2211.12716)|ACM MM|2022|`COCO`,`VOC07`|-|
+|**[Global Meets Local]**[Global Meets Local: Effective Multi-Label Image Classification via Category-Aware Weak Supervision](https://arxiv.org/pdf/2211.12716)|ACM MM|2022|`COCO`,`VOC07`|-|
 |**[TSFormer]**[Two-Stream Transformer for Multi-Label Image Classification](https://dl.acm.org/doi/pdf/10.1145/3503161.3548343)|ACM MM|2022|`NW`,`COCO`,`VOC07`|[Official](https://github.com/jasonseu/TSFormer#two-stream-transformer-for-multi-label-image-classification)|
 |**[LGR]**[Label-aware Graph Representation Learning for Multi-label Image Classification](https://www.sciencedirect.com/science/article/pii/S0925231222003721)|Neurocomputing|2022|`COCO`,`VOC07`,`VOC12`|-|
 |**[GCN-MS-SGA]**[A Multi-scale Semantic Attention Representation for Multi-label Image Recognition with Graph Networks](https://www.sciencedirect.com/science/article/pii/S0925231222003526)|Neurocomputing|2022|`COCO`,`VOC07`|-|
@@ -89,7 +89,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 ### 2023
 |  Title   | Venue  | Year| Datasets | Code|
 |  ----  | ----  |----  |----  |----  |
-|**[]**[MuMIC-Multimodal Embedding for Multi-Label Image Classification with Tempered Sigmoid](https://ojs.aaai.org/index.php/AAAI/article/view/26850/26622)|AAAI|2023|-|-|
+|**[MuMIC]**[MuMIC-Multimodal Embedding for Multi-Label Image Classification with Tempered Sigmoid](https://ojs.aaai.org/index.php/AAAI/article/view/26850/26622)|AAAI|2023|-|-|
 |**[MKT]**[Open-Vocabulary Multi-Label Classification via Multi-Modal Knowledge Transfer](https://ojs.aaai.org/index.php/AAAI/article/view/25159/24931)|AAAI|2023|`NW`,`open`|[Official](https://github.com/sunanhe/MKT)|
 |**[CDUL]**[CDUL: CLIP-Driven Unsupervised Learning for Multi-Label Image Classification](https://openaccess.thecvf.com/content/ICCV2023/papers/Abdelfattah_CDUL_CLIP-Driven_Unsupervised_Learning_for_Multi-Label_Image_Classification_ICCV_2023_paper.pdf)|ICCV|2023|`NW`,`COCO`,`VOC07`,`VOC12`|[Official](https://github.com/cs-mshah/CDUL)|
 |**[PatchCT]**[PatchCT: Aligning Patch Set and Label Set with Conditional Transport for Multi-Label Image Classification](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_PatchCT_Aligning_Patch_Set_and_Label_Set_with_Conditional_Transport_ICCV_2023_paper.pdf)|ICCV|2023|`NW`,`COCO`,`VOC07`|-|
