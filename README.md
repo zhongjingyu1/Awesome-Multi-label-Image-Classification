@@ -15,6 +15,8 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |[Visual Genome (`VG500`)](https://homes.cs.washington.edu/~ranjay/visualgenome/index.html)|500|75,774|32,475|-|
 |Visual Genome 256 (`VG256`)|256|75,774|32,475|-|
 |IAPRTC-12 (`IA12`)|275|13,989|6,011|-|
+|DeepFashion (`DF`)|26|16,000|4,000|-|
+
 ## 2. Top-tier Conference Papers
 ### 2014--2019
 |  Title   | Venue  | Year| Datasets | Code|
@@ -116,6 +118,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |**[CCR]**[Conditional Consistency Regularization for Semi-Supervised Multi-Label Image Classification](https://ieeexplore.ieee.org/abstract/document/10283961)|TMM|2024|`COCO`,`VOC07`|-|
 |**[DATran]**[DATran: Dual Attention Transformer for Multi-Label Image Classification](https://ieeexplore.ieee.org/document/10147882)|TCSVT|2024|`COCO`,`VOC07`,`VG500`|-|
 |**[C-TMS]**[Transformer Driven Matching Selection Mechanism for Multi-Label Image Classification](https://ieeexplore.ieee.org/document/10158710)|TCSVT|2024|`NW`,`COCO`,`VOC07`,`VOC12`|-|
+|[Toward Robustness in Multi-Label Classification: A Data Augmentation Strategy against Imbalance and Noise](https://ojs.aaai.org/index.php/AAAI/article/view/30157/32052)|AAAI|2024|`COCO`,`VOC07`,`DF`|[Official](https://github.com/DISL-Lab/BalanceMix)|
 |[]()||||[Official]()|
 
 ## 3. Other Resources
