@@ -99,7 +99,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |**[VSGCN]**[Beyond Word Embeddings: Heterogeneous Prior Knowledge Driven Multi-Label Image Classification](https://ieeexplore.ieee.org/abstract/document/9765340)|TMM|2023|`NW`,`COCO`,`VOC07`|-|
 |**[P-GCN]**[Learning Graph Convolutional Networks for Multi-Label Recognition and Applications](https://ieeexplore.ieee.org/document/9369105)|TPAMI|2023|`NW`,`COCO`,`VOC07`|-|
 |**[MulCon]**[Contrastively enforcing distinctiveness for multi-label image classification](https://www.sciencedirect.com/science/article/pii/S0925231223007282)|Neurocomputing|2023|`NW`,`COCO`,`VOC07`,`VG500`|[Official](https://github.com/SonDaoDuy/MulCon/tree/main)|
-|**[]**[Balanced Masking Strategy for Multi-label Image Classification](https://www.sciencedirect.com/science/article/pii/S0925231222014023)|Neurocomputing|2023|`COCO`,`VOC07`|-|
+|**[BM]**[Balanced Masking Strategy for Multi-label Image Classification](https://www.sciencedirect.com/science/article/pii/S0925231222014023)|Neurocomputing|2023|`COCO`,`VOC07`|-|
 |**[FL-Tran]**[Feature Learning Network with Transformer for Multi-label Image Classification](https://www.sciencedirect.com/science/article/pii/S0031320322006823)|PR|2023|`NW`,`COCO`,`VOC07`|-|
 |**[ML-Decoder]**[ML-Decoder: Scalable and Versatile Classification Head](https://openaccess.thecvf.com/content/WACV2023/papers/Ridnik_ML-Decoder_Scalable_and_Versatile_Classification_Head_WACV_2023_paper.pdf)|WACV|2023|`NW`,`COCO`,`VOC07`|[Official](https://github.com/Alibaba-MIIL/ML_Decoder)|
 
