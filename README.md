@@ -10,7 +10,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |NUS-WIDE (`NW`)|81|125,449|83898|2.4|
 |[WIDER Attribute](http://mmlab.ie.cuhk.edu.hk/projects/WIDERAttribute.html) (`WA`)|14|28,345|29,179||
 |PA-100K (`PA`)|26|9,000|1,000||
-|Fashion550K (`F550`)|66||||
+|Fashion550K (`F550`)|66|3300|2000||
 |Charades (`Cha`)|157|8,000|1,800|6.8|
 |[Visual Genome (`VG500`)](https://homes.cs.washington.edu/~ranjay/visualgenome/index.html)|500|75,774|32,475|-|
 |Visual Genome 256 (`VG256`)|256|75,774|32,475|-|
