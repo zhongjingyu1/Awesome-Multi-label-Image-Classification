@@ -1,7 +1,7 @@
 # Awesome-Multi-label-image-classification
 We've compiled a list of related work in this not-so-popular multi-label field. We hope it will be helpful to the researchers involved.
-## 1. Benchmark Datasets
-|  Dataset   | # Class  | # Training data	| # Test data| #Average labels per image|
+## 1. Benchmark Datasets (Average labels per image(ALP))
+|  Dataset   | # Class  | # Training data	| # Test data| #ALP|
 |  ----  | ----  |----  |----  |----|
 |[Pascal VOC 2007](http://host.robots.ox.ac.uk/pascal/VOC/) (`VOC07`)|20|5,011|4952|2.5|
 |[Pascal VOC 2012](http://host.robots.ox.ac.uk/pascal/VOC/) (`VOC12`)|20|11,540|10,991|2.5|
