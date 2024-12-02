@@ -85,6 +85,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |**[SST]**[SST: Spatial and Semantic Transformers for Multi-Label Image Recognition](https://ieeexplore.ieee.org/document/9733172)|TIP|2022|`NW`,`COCO`,`VOC07`|-|
 |**[KGGR]**[Knowledge-Guided Multi-Label Few-Shot Learning for General Image Recognition](https://ieeexplore.ieee.org/abstract/document/9207855)|TPAMI|2022|`COCO`,`VOC07`,`VOC12`,`VG500`|-|
 |**[MLTR]**[MLTR: Multi-Label Classification with Transformer](https://ieeexplore.ieee.org/abstract/document/9860016)|ICME|2022|`NW`,`COCO`,`VOC07`|-|
+|**[DualCoOp]**[DualCoOp: Fast Adaptation to Multi-Label Recognition with Limited Annotations](https://proceedings.neurips.cc/paper_files/paper/2022/file/c5169260ef32d1bd3597c14d8c89b034-Paper-Conference.pdf)|NeurIPS|2022|`NW`,`COCO`,`VOC07`|[Official](https://github.com/sunxm2357/DualCoOp)|
 
 ### 2023
 |  Title   | Venue  | Year| Datasets | Code|
@@ -104,6 +105,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |**[ML-Decoder]**[ML-Decoder: Scalable and Versatile Classification Head](https://openaccess.thecvf.com/content/WACV2023/papers/Ridnik_ML-Decoder_Scalable_and_Versatile_Classification_Head_WACV_2023_paper.pdf)|WACV|2023|`NW`,`COCO`,`VOC07`|[Official](https://github.com/Alibaba-MIIL/ML_Decoder)|
 |**[DDA-MLIC]**[Discriminator-free Unsupervised Domain Adaptation for Multi-label Image Classification](https://openaccess.thecvf.com/content/WACV2024/papers/Singh_Discriminator-Free_Unsupervised_Domain_Adaptation_for_Multi-Label_Image_Classification_WACV_2024_paper.pdf)|WACV|2023|-|[Official](https://github.com/cvi2snt/DDA-MLIC)|
 |**[AAMN]**[Attention-Augmented Memory Network for Image Multi-Label Classification](https://oa.mg/work/10.1145/3570166)|ACM TMCCA|2023|`COCO`,`VOC07`,`VG500`|-|
+|**[DualCoOp++]**[DualCoOp++: Fast and Effective Adaptation to Multi-Label Recognition with Limited Annotations](https://ieeexplore.ieee.org/abstract/document/10373051)|TPAMI|2023|`NW`,`COCO`,`VOC07`|[Official](https://github.com/sunxm2357/DualCoOp)|
 
 ### 2024
 |  Title   | Venue  | Year| Datasets | Code|
