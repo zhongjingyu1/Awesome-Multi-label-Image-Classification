@@ -118,4 +118,4 @@ Attentive recurrent neural network for weak-supervised multi-label image classif
 
 ## 5. Other Resources
 - [Awesome-Multi-label-Image-Recognition](https://github.com/JiaweiZhao-git/Awesome-Multi-label-Image-Recognition)
-- [Awesome-Multi-label-Image-Recognition-1](https://github.com/zhouchunpong/Awesome-Multi-label-Image-Recognition-1)
+- [Multi-label Image Recognition](https://github.com/zhouchunpong/Awesome-Multi-label-Image-Recognition-1)
