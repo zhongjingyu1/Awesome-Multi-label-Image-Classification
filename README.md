@@ -114,7 +114,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |  Title   | Venue  | Year| Datasets | Code|
 |  ----  | ----  |----  |----  |----  |
 |**[HSQ]**[Hybrid Sharing for Multi-Label Image Classification](https://openreview.net/pdf?id=yVJd8lKyVX)|ICLR|2024|`COCO`,`VOC07`|[Official](https://github.com/zihao-yin/HSQ)|
-|**[TRM-ML]**[Text-Region Matching for Multi-Label Image Recognition with Missing Labels]([https://openreview.net/pdf?id=yVJd8lKyVX](https://arxiv.org/abs/2407.18520))|ACM MM|2024|`COCO`,`VOC07`,`VG200`|-|
+|**[TRM-ML]**[Text-Region Matching for Multi-Label Image Recognition with Missing Labels](https://arxiv.org/abs/2407.18520)|ACM MM|2024|`COCO`,`VOC07`,`VG200`|-|
 |**[MLC-PAT]**[Counterfactual Reasoning for Multi-Label Image Classification via Patching-Based Training](https://openreview.net/attachment?id=lQIN9ZyMLz&name=pdf)|ICML|2024|`COCO`,`VOC07`,`VG256`|[Official](https://github.com/xiemk/MLC-PAT)|
 |**[DRGN]**[Mining Semantic Information With Dual Relation Graph Network for Multi-Label Image Classification](https://ieeexplore.ieee.org/document/10128751)|TMM|2024|`COCO`,`VOC07`,`VG500`|-|
 |**[CCR]**[Conditional Consistency Regularization for Semi-Supervised Multi-Label Image Classification](https://ieeexplore.ieee.org/abstract/document/10283961)|TMM|2024|`COCO`,`VOC07`|-|
