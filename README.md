@@ -6,9 +6,9 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |[Pascal VOC 2007](http://host.robots.ox.ac.uk/pascal/VOC/) (`VOC07`)|20|5,011|4952|2.5|
 |[Pascal VOC 2012](http://host.robots.ox.ac.uk/pascal/VOC/) (`VOC12`)|20|11,540|10,991|2.5|
 |[MS-COCO 2014](https://cocodataset.org/#download) (`COCO`)|80|82,081|40,504|2.9|
-|MS-COCO 2017 (`COCO17`)|80|118,287|40,670|-|
+|[MS-COCO 2017 (`COCO17`)](https://cocodataset.org/#download)|80|118,287|40,670|-|
 |NUS-WIDE (`NW`)|81|125,449|83898|2.4|
-|WIDER Attribute (`WA`)|14|28,345|29,179||
+|[WIDER Attribute (`WA`)](http://mmlab.ie.cuhk.edu.hk/projects/WIDERAttribute.html)|14|28,345|29,179||
 |PA-100K (`PA`)|26|9,000|1,000||
 |Fashion550K (`F550`)|66||||
 |Charades (`Cha`)|157|8,000|1,800|6.8|
