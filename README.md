@@ -108,6 +108,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |**[DDA-MLIC]**[Discriminator-free Unsupervised Domain Adaptation for Multi-label Image Classification](https://openaccess.thecvf.com/content/WACV2024/papers/Singh_Discriminator-Free_Unsupervised_Domain_Adaptation_for_Multi-Label_Image_Classification_WACV_2024_paper.pdf)|WACV|2023|-|[Official](https://github.com/cvi2snt/DDA-MLIC)|
 |**[AAMN]**[Attention-Augmented Memory Network for Image Multi-Label Classification](https://oa.mg/work/10.1145/3570166)|ACM TMCCA|2023|`COCO`,`VOC07`,`VG500`|-|
 |**[DualCoOp++]**[DualCoOp++: Fast and Effective Adaptation to Multi-Label Recognition with Limited Annotations](https://ieeexplore.ieee.org/abstract/document/10373051)|TPAMI|2023|`NW`,`COCO`,`VOC07`|[Official](https://github.com/sunxm2357/DualCoOp)|
+|**[SADCL]**[Semantic-Aware Dual Contrastive Learning for Multi-label Image Classification](https://arxiv.org/format/2307.09715)|ECAI|2023|`NW`,`COCO`,`VOC07`,`VOC12`,`VG500`|[Official](https://github.com/yu-gi-oh-leilei/SADCL?tab=readme-ov-file#sadcl)|
 
 ### 2024
 |  Title   | Venue  | Year| Datasets | Code|
