@@ -121,6 +121,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |**[DATran]**[DATran: Dual Attention Transformer for Multi-Label Image Classification](https://ieeexplore.ieee.org/document/10147882)|TCSVT|2024|`COCO`,`VOC07`,`VG500`|-|
 |**[C-TMS]**[Transformer Driven Matching Selection Mechanism for Multi-Label Image Classification](https://ieeexplore.ieee.org/document/10158710)|TCSVT|2024|`NW`,`COCO`,`VOC07`,`VOC12`|-|
 |**[BalanceMix]**[Toward Robustness in Multi-Label Classification: A Data Augmentation Strategy against Imbalance and Noise](https://ojs.aaai.org/index.php/AAAI/article/view/30157/32052)|AAAI|2024|`COCO`,`VOC07`,`DF`|[Official](https://github.com/DISL-Lab/BalanceMix)|
+|**[TKPR]**[Top-K Pairwise Ranking: Bridging the Gap Among Ranking-Based Measures for Multi-label Classification](https://www.semanticscholar.org/paper/Top-K-Pairwise-Ranking%3A-Bridging-the-Gap-Among-for-Wang-Xu/dd2bafaebd725a2f9974f9b02988271270599b83)|IJCV|2024|`NW`,`COCO`,`VOC07`|-|
 |[]()||||[Official]()|
 
 ## 3. Other Resources
