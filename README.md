@@ -88,6 +88,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |**[KGGR]**[Knowledge-Guided Multi-Label Few-Shot Learning for General Image Recognition](https://ieeexplore.ieee.org/abstract/document/9207855)|TPAMI|2022|`COCO`,`VOC07`,`VOC12`,`VG500`|-|
 |**[MLTR]**[MLTR: Multi-Label Classification with Transformer](https://ieeexplore.ieee.org/abstract/document/9860016)|ICME|2022|`NW`,`COCO`,`VOC07`|-|
 |**[DualCoOp]**[DualCoOp: Fast Adaptation to Multi-Label Recognition with Limited Annotations](https://proceedings.neurips.cc/paper_files/paper/2022/file/c5169260ef32d1bd3597c14d8c89b034-Paper-Conference.pdf)|NeurIPS|2022|`NW`,`COCO`,`VOC07`|[Official](https://github.com/sunxm2357/DualCoOp)|
+|**[C-GMVAE]**[Gaussian Mixture Variational Autoencoder with Contrastive Learning for Multi-Label Classification](https://www.cs.cornell.edu/gomes/pdf/2022_bai_icml_mlc.pdf)|ICML|2022|-|[Official](https://github.com/JunwenBai/C-GMVAE)|
 
 ### 2023
 |  Title   | Venue  | Year| Datasets | Code|
