@@ -7,7 +7,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |[Pascal VOC 2012](http://host.robots.ox.ac.uk/pascal/VOC/) (`VOC12`)|20|11,540|10,991|2.5|
 |[MS-COCO 2014](https://cocodataset.org/#download) (`COCO`)|80|82,081|40,504|2.9|
 |[MS-COCO 2017](https://cocodataset.org/#download) (`COCO17`)|80|118,287|40,670|-|
-|NUS-WIDE (`NW`)|81|125,449|83898|2.4|
+|[NUS-WIDE (`NW`)](https://drive.google.com/file/d/0B7IzDz-4yH_HMFdiSE44R1lselE/view?resourcekey=0-w5zM4GH9liG3rtoZoWzXag)|81|125,449|83898|2.4|
 |[WIDER Attribute](http://mmlab.ie.cuhk.edu.hk/projects/WIDERAttribute.html) (`WA`)|14|28,345|29,179||
 |PA-100K (`PA`)|26|9,000|1,000||
 |Fashion550K (`F550`)|66|3300|2000||
