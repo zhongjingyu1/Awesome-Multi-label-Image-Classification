@@ -127,8 +127,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 ### 2025
 |  Title   | Venue  | Year| Datasets | Code|
 |  ----  | ----  |----  |----  |----  |
-|**[HSQ]**[Hybrid Sharing for Multi-Label Image Classification](https://openreview.net/pdf?id=yVJd8lKyVX)|ICLR|2024|`COCO`,`VOC07`|[Official](https://github.com/zihao-yin/HSQ)|
-|[Transformer-driven Feature Fusion Network and Visual Feature Coding for Multi-label Image Classification](https://www.sciencedirect.com/science/article/pii/S0031320325002444)|PR|2025|`NW`,`COCO`,`VOC07`,`VOC12`|-|
+|**[FFTran]**[Transformer-driven Feature Fusion Network and Visual Feature Coding for Multi-label Image Classification](https://www.sciencedirect.com/science/article/pii/S0031320325002444)|PR|2025|`NW`,`COCO`,`VOC07`,`VOC12`|-|
 |[]()||||[Official]()|
 
 ## 3. Other Resources
