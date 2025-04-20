@@ -128,6 +128,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |  Title   | Venue  | Year| Datasets | Code|
 |  ----  | ----  |----  |----  |----  |
 |**[FFTran]**[Transformer-driven Feature Fusion Network and Visual Feature Coding for Multi-label Image Classification](https://www.sciencedirect.com/science/article/pii/S0031320325002444)|PR|2025|`NW`,`COCO`,`VOC07`,`VOC12`|-|
+|**[SpliceMix]**[SpliceMix: A Cross-scale and Semantic Blending Augmentation Strategy for Multi-label Image Classification](https://ieeexplore.ieee.org/abstract/document/10856374)|TMM|2025|`COCO`,`VOC07`|[Official](https://github.com/zuiran/SpliceMix)|
 |[]()||||[Official]()|
 
 ## 3. Other Resources
