@@ -124,6 +124,13 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |**[TKPR]**[Top-K Pairwise Ranking: Bridging the Gap Among Ranking-Based Measures for Multi-label Classification](https://www.semanticscholar.org/paper/Top-K-Pairwise-Ranking%3A-Bridging-the-Gap-Among-for-Wang-Xu/dd2bafaebd725a2f9974f9b02988271270599b83)|IJCV|2024|`NW`,`COCO`,`VOC07`|-|
 |[]()||||[Official]()|
 
+### 2025
+|  Title   | Venue  | Year| Datasets | Code|
+|  ----  | ----  |----  |----  |----  |
+|**[HSQ]**[Hybrid Sharing for Multi-Label Image Classification](https://openreview.net/pdf?id=yVJd8lKyVX)|ICLR|2024|`COCO`,`VOC07`|[Official](https://github.com/zihao-yin/HSQ)|
+|[Transformer-driven Feature Fusion Network and Visual Feature Coding for Multi-label Image Classification](https://www.sciencedirect.com/science/article/pii/S0031320325002444)|PR|2025|`NW`,`COCO`,`VOC07`,`VOC12`|-|
+|[]()||||[Official]()|
+
 ## 3. Other Resources
 - [Awesome-Multi-label-Image-Recognition](https://github.com/JiaweiZhao-git/Awesome-Multi-label-Image-Recognition)
 - [Multi-label Image Recognition](https://github.com/zhouchunpong/Awesome-Multi-label-Image-Recognition-1)
