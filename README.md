@@ -133,7 +133,7 @@ We've compiled a list of related work in this not-so-popular multi-label field. 
 |**[TsSAN]**[Two-stream Semantic Alignment Networks for Multi-label Image Classification](https://ieeexplore.ieee.org/abstract/document/10890676)|ICASSP|2025|`NW`,`COCO`,`VOC07`|-|
 |**[-]**[Multi-Label Few-Shot Image Classification via Pairwise Feature Augmentation and Flexible Prompt Learning](https://ojs.aaai.org/index.php/AAAI/article/view/32578/34733)|AAAI|2025|`COCO`,`VOC12`|-|
 |**[HP-DVAL]**[Dual-View Alignment Learning With Hierarchical-Prompt for Class-Imbalance Multi-Label Image Classification](https://arxiv.org/pdf/2509.17747)|TIP|2025|`COCO`,`VOC07`|[Official](https://github.com/jiexuanyan/HP-DVAL)|
-|[DRTN: Dual Relation Transformer Network with feature erasure and contrastive learning for multi-label image classification](https://www.sciencedirect.com/science/article/abs/pii/S0893608025001881)|NN|2025|`NW`,`COCO`,`VOC07`|-|
+|**[DRTN]**[DRTN: Dual Relation Transformer Network with feature erasure and contrastive learning for multi-label image classification](https://www.sciencedirect.com/science/article/abs/pii/S0893608025001881)|NN|2025|`NW`,`COCO`,`VOC07`|-|
 |[]()||||[Official]()|
 
 
